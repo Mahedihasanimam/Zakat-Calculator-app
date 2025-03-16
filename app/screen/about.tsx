@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const NotFound = () => {
+const About = () => {
   return (
     <View>
-      <Text>NotFound</Text>
+      <Text>About</Text>
     </View>
   )
 }
 
-export default NotFound
+export default About
