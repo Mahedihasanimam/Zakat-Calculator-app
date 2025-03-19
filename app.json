@@ -9,7 +9,8 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.Zakat"
     },
     "android": {
       "adaptiveIcon": {
@@ -53,7 +54,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "d7f87533-7fdb-4708-9efc-f318ee00bfdf"
+        "projectId": "826fd5e0-80b5-464f-beee-154ca42eff32"
       }
     }
   }
